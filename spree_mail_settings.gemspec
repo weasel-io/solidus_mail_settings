@@ -6,7 +6,7 @@ require 'spree_mail_settings/version'
 
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'solidus_mail_settings'
+  s.name        = 'spree_mail_settings'
   s.version     = SpreeMailSettings.version
   s.summary     = 'Mail setting functionality extracted from Spree Commerce'
   s.description = s.summary
